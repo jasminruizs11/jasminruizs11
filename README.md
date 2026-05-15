@@ -17,7 +17,7 @@ Bienvenido a mi sector digital. Soy una **Analista de Datos y Desarrolladora Pyt
 | Área | Herramientas |
 | :--- | :--- |
 | **Lenguajes** | `Python (Pandas, NumPy,etc)` `SQL (MySQL, PostgreSQL)` |
-| **BI & Analytics** | `Power BI` `Excel Avanzado`|
+| **BI & Analytics** | `Power BI` `Excel Avanzado` `(Cert. CoderHouse)` |
 | **Bases de Datos** | `Diseño de Modelos Relacionales (Cert. UTN)` |
 | **Dominio Académico** | `Micro/Macroeconomía` `Análisis de Coyuntura` |
 ---
